@@ -7,7 +7,7 @@ A nice collection of cool things related to Proxmox VE such like awesome tools, 
 ## 📋 Table of Contents
 
 - [Management & User Interfaces](#management-user-interfaces)
-- [Scripts, CLI & Automation](#scripts-cli-automation)
+- [Scripts, CLI & Automation](#scripts-cli--automation)
 - [Monitoring](#monitoring)
 - [Backup & Disaster Recovery](#backup-disaster-recovery)
 - [APIs, SDKs & Integrations](#apis-sdks-integrations)
