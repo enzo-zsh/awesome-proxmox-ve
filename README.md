@@ -6,11 +6,12 @@ A nice collection of cool things related to Proxmox VE such like awesome tools, 
 
 ## 📋 Table of Contents
 
-- [Management & User Interfaces](#management-user-interfaces)
+- [Management & User Interfaces](#management--user-interfaces)
 - [Scripts, CLI & Automation](#scripts-cli--automation)
 - [Monitoring](#monitoring)
-- [Backup & Disaster Recovery](#backup-disaster-recovery)
-- [APIs, SDKs & Integrations](#apis-sdks-integrations)
+- [OS](#os)
+- [Backup & Disaster Recovery](#backup--disaster-recovery)
+- [APIs, SDKs & Integrations](#apis-sdks--integrations)
 
 ---
 
@@ -31,6 +32,8 @@ A nice collection of cool things related to Proxmox VE such like awesome tools, 
 * [PVE-Tools-9](https://github.com/Air-Alex/PVE-Tools-9)
 * [Proxmox Cluster Tasks](https://github.com/lexxai/proxmox_cluster_tasks)
 * [PECU (Proxmox Enhanced Configuration Utility)](https://pecu.tools/)
+* [PVE-mods)](https://github.com/Meliox/PVE-mods)
+* [Proxmox Stuff)](https://github.com/DerDanilo/proxmox-stuff)
 
 ## 📊 Monitoring
 *Keep an eye on the health, metrics, and performance of your infrastructure.*
@@ -38,6 +41,13 @@ A nice collection of cool things related to Proxmox VE such like awesome tools, 
 * [Pulse](https://github.com/rcourtman/Pulse)
 * [Netdata](https://www.netdata.cloud/)
 * [Proxmox VE Prometheus Exporter](https://github.com/prometheus-pve/prometheus-pve-exporter)
+
+## 🤖 OS
+*Keep an eye on the health, metrics, and performance of your infrastructure.*
+
+* [OSX-Proxmox](https://github.com/luchina-gabriel/OSX-PROXMOX)
+* [Vagrant Proxmox Provider](https://github.com/telcat/vagrant-proxmox)
+* [Proxmox NixOS)](https://github.com/SaumonNet/proxmox-nixos)
 
 ## 🗄️ Backup & Disaster Recovery
 *Solutions to protect and restore your virtual machines and containers (LXC).*
