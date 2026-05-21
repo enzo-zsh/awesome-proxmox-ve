@@ -15,7 +15,7 @@ A nice collection of cool things related to Proxmox VE such like awesome tools, 
 
 ---
 
-## 🖥️ Management & User Interfaces
+## Management & User Interfaces
 *Tools that enhance or replace the native Proxmox management interface.*
 
 * [ProxCenter](https://www.proxcenter.io/) 
@@ -24,7 +24,7 @@ A nice collection of cool things related to Proxmox VE such like awesome tools, 
 * [PVETUI](https://github.com/devnullvoid/pvetui)
 * [PVMSS](https://github.com/julienhmmt/pvmss)
 
-## 📜 Scripts, CLI & Automation
+## Scripts, CLI & Automation
 *Automate your deployments and daily administration tasks.*
 
 * [Proxmox VE Helper-Scripts (Community Scripts)](https://community-scripts.org/)
@@ -35,27 +35,27 @@ A nice collection of cool things related to Proxmox VE such like awesome tools, 
 * [PVE-mods)](https://github.com/Meliox/PVE-mods)
 * [Proxmox Stuff)](https://github.com/DerDanilo/proxmox-stuff)
 
-## 📊 Monitoring
+## Monitoring
 *Keep an eye on the health, metrics, and performance of your infrastructure.*
 
 * [Pulse](https://github.com/rcourtman/Pulse)
 * [Netdata](https://www.netdata.cloud/)
 * [Proxmox VE Prometheus Exporter](https://github.com/prometheus-pve/prometheus-pve-exporter)
 
-## 🤖 OS
+## OS
 *Keep an eye on the health, metrics, and performance of your infrastructure.*
 
 * [OSX-Proxmox](https://github.com/luchina-gabriel/OSX-PROXMOX)
 * [Vagrant Proxmox Provider](https://github.com/telcat/vagrant-proxmox)
 * [Proxmox NixOS)](https://github.com/SaumonNet/proxmox-nixos)
 
-## 🗄️ Backup & Disaster Recovery
+## Backup & Disaster Recovery
 *Solutions to protect and restore your virtual machines and containers (LXC).*
 
 * [Veeam Backup for Proxmox VE](https://www.veeam.com/products/virtual/proxmox-backup-recovery.html)
 * [Proxmox Backup Server (PBS)](https://www.proxmox.com/en/products/proxmox-backup-server/overview)
 
-## 🔌 APIs, SDKs & Integrations
+## APIs, SDKs & Integrations
 *Connect Proxmox to your other tools, Infrastructure as Code (IaC), and automation workflows.*
 
 * [Proxmox MCP Plus (AI)](https://github.com/RekklesNA/ProxmoxMCP-Plus)
