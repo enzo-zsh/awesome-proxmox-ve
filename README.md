@@ -23,6 +23,7 @@ A nice collection of cool things related to Proxmox VE such like awesome tools, 
 * [ProxMenux](https://proxmenux.com/)
 * [PVETUI](https://github.com/devnullvoid/pvetui)
 * [PVMSS](https://github.com/julienhmmt/pvmss)
+* [AtlasPVE](https://atlaspve.com/)
 
 ## Scripts, CLI & Automation
 *Automate your deployments and daily administration tasks.*
